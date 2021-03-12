@@ -1,0 +1,13 @@
+channels:
+  - pytorch
+  - fastai
+  - conda-forge
+  - defaults
+dependencies:
+  - voila
+  - voila-vuetify=0.4.0
+  - ipyvuetify=1.6.2 
+  - fastai==2.2.7
+  - pillow<7
+  - packaging
+  - ipywidgets==7.6.3
